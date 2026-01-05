@@ -9,7 +9,7 @@ Project documentation for the sample Python scripts contained in the repository.
 
 This repository contains a minimal Python sample intended for testing documentation workflows. It provides a small entry point and a helper module that demonstrates idiomatic docstrings suitable for automatic documentation generation.
 
-1.2 Scope
+1.2 Scope!!
 
 The documentation focuses on the files within the `scripts` directory and the `docs` directory that contains example output. No external dependencies are required to run the sample scripts.
 
