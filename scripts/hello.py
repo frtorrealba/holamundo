@@ -19,7 +19,7 @@ def greet(name: Optional[str] = None) -> str:
 
     if not name:
         name = "Mundo"
-    return f"¡Chao, {name}!"
+    return f"¡Chao,nos vimos {name}!"
 
 
 if __name__ == "__main__":
